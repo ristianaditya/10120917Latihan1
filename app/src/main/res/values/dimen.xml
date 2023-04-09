@@ -5,24 +5,24 @@
 <!--IF10K-->
 
 <resources>
-    <dimen name="dimen_230dp">230dp</dimen>
-    <dimen name="dimen_155dp">155dp</dimen>
-    <dimen name="dimen_74dp">74dp</dimen>
-    <dimen name="dimen_56dp">56dp</dimen>
-    <dimen name="dimen_48dp">48dp</dimen>
-    <dimen name="dimen_44dp">44dp</dimen>
-    <dimen name="dimen_40dp">40dp</dimen>
-    <dimen name="dimen_38dp">36dp</dimen>
+
     <dimen name="dimen_24dp">24dp</dimen>
     <dimen name="dimen_17dp">17dp</dimen>
     <dimen name="dimen_16dp">16dp</dimen>
-    <dimen name="dimen_14dp">14dp</dimen>
-    <dimen name="dimen_12dp">12dp</dimen>
-    <dimen name="dimen_10dp">10dp</dimen>
     <dimen name="dimen_8dp">8dp</dimen>
     <dimen name="dimen_6dp">6dp</dimen>
     <dimen name="dimen_4dp">4dp</dimen>
     <dimen name="dimen_2dp">2dp</dimen>
+
+    <dimen name="dimen_buttom_space">120dp</dimen>
+    <dimen name="dimen_height_button">40dp</dimen>
+    <dimen name="dimen_size_avatar">44dp</dimen>
+    <dimen name="dimen_size_icon_digiteam">48dp</dimen>
+    <dimen name="dimen_input_time">230dp</dimen>
+    <dimen name="dimen_height_laporan_bulan">230dp</dimen>
+    <dimen name="dimen_width_laporan_bulan">155dp</dimen>
+    <dimen name="dimen_size_icon_list">24dp</dimen>
+    <dimen name="dimen_width_grid_icon">74dp</dimen>
 
     <dimen name="text_size_20sp">20sp</dimen>
     <dimen name="text_size_16sp">16sp</dimen>
